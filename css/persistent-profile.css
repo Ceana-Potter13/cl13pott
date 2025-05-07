@@ -43,7 +43,7 @@
 }
 
 #email-location {
-    font-size: .5em;
+    font-size: .7em;
 }
 
 #social-icon-container {
@@ -58,8 +58,9 @@
     margin: 0 0.5rem;
     font-size: inherit;
     transition: color 0.3s;
-  }
+}
   
-  #social-icon-container a:hover {
+#social-icon-container a:hover {
     color: #28E98C;
-  }
+}
+
