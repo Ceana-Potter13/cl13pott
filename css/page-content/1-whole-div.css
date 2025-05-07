@@ -1,0 +1,13 @@
+#page-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 1.6vw;
+    width: 57%;
+    white-space: normal;
+    overflow-wrap: break-word;
+    word-break: break-word;
+    align-self: flex-start;
+    margin: 0;
+    padding-top: 0;
+}
