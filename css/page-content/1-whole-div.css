@@ -1,7 +1,7 @@
 #page-content {
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: left;
     font-size: 1.6vw;
     width: 57%;
     white-space: normal;
@@ -10,4 +10,9 @@
     align-self: flex-start;
     margin: 0;
     padding-top: 0;
+    gap: 11em;
+}
+
+p, ul {
+    font-size: .8em;
 }

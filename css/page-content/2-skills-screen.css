@@ -1,0 +1,14 @@
+.skill-kit {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+    gap: 5em;
+}
+
+.skill-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    width: 4em;
+  }
