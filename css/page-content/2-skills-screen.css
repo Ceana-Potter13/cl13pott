@@ -1,3 +1,19 @@
+.skill-box {
+    border-color: #444444;
+    width: 1.5em;
+    height: 3em;
+    border-radius: 50px;
+    border-width: 3px;
+    border-style: solid;
+    white-space: normal;
+    overflow-wrap: break-word;
+    word-break: break-word;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2em;
+}
+
 .skill-kit {
     display: flex;
     flex-wrap: wrap;
@@ -11,4 +27,4 @@
     align-items: center;
     text-align: center;
     width: 4em;
-  }
+}
